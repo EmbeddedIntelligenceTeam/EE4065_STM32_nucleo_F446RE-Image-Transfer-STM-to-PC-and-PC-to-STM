@@ -1,8 +1,8 @@
 # EE4065_STM32_nucleo_F446RE-Image-Transfer-STM-to-PC-and-PC-to-STM
 
-# STM32-F446RE: Two-Way Image Transfer over UART
+## STM32-F446RE: Two-Way Image Transfer over UART
 
-## 1. Project Overview
+### 1. Project Overview
 
 This project demonstrates a high-speed, bi-directional image transfer system between a host PC and an STM32 Nucleo-F446RE microcontroller.
 
