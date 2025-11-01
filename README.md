@@ -1,4 +1,4 @@
-# EE4065_STM32_nucleo_F446RE-Image-Transfer-STM-to-PC-and-PC-to-STM
+# EE4065-STM32 nucleo F446RE-Image-Transfer-STM-to-PC-and-PC-to-STM
 
 ## STM32-F446RE: Two-Way Image Transfer over UART
 
